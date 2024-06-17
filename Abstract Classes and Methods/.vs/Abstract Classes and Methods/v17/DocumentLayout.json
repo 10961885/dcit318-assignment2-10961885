@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prince\\source\\repos\\10961885\\dcit318-assignment2-10961885\\Abstract Classes and Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A29615F5-D4E3-4280-940F-B0BF260B0A34}|Abstract Classes and Methods\\Abstract Classes and Methods.csproj|c:\\users\\prince\\source\\repos\\10961885\\dcit318-assignment2-10961885\\abstract classes and methods\\abstract classes and methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29615F5-D4E3-4280-940F-B0BF260B0A34}|Abstract Classes and Methods\\Abstract Classes and Methods.csproj|solutionrelative:abstract classes and methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\source\\repos\\10961885\\dcit318-assignment2-10961885\\Abstract Classes and Methods\\Abstract Classes and Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Classes and Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\Prince\\source\\repos\\10961885\\dcit318-assignment2-10961885\\Abstract Classes and Methods\\Abstract Classes and Methods\\Program.cs",
+              "RelativeToolTip": "Abstract Classes and Methods\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:04:26.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
